@@ -1,7 +1,7 @@
 This is documentation for the Chatbot feature inside *OpenFinAL*. This document will talk about features, ideas, and chat conversations. 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Chatbot Features](#'Chatbot Features')
+- [Chatbot Features](#Chatbot Features)
 - [Chatbot Ideas](#ChatbotIdeas)
 - [Chatbot Conversations](#ChatbotConversations)
 
