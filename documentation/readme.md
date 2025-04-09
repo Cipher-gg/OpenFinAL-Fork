@@ -2,7 +2,7 @@ This is documentation for the Chatbot feature inside *OpenFinAL*. This document 
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Chatbot Features](https://github.com/Cipher-gg/OpenFinAL-Fork/blob/main/documentation/readme.md#chatbot-features)
-- [Chatbot Ideas](#ChatbotIdeas)
+- [Chatbot Ideas](https://github.com/Cipher-gg/OpenFinAL-Fork/blob/main/documentation/readme.md#chatbot-ideas)
 - [Chatbot Conversations](#ChatbotConversations)
 
 ## Introduction
