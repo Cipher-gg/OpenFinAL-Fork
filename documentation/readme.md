@@ -24,7 +24,7 @@ The current build of the Chatbot is using OpenAI's ChatGPT-4. This is being done
 ## Chatbot Conversations
 *Mock Up Example*
 
-![alt text](https://github.com/user-attachments/files/19668771/MK1.Chatbot.design.pdf)
+![alt text](https://github.com/user-attachments/files/19668771/MK1.Chatbot.design.pdf "Logo")
 
 
 ### Chatbot Introduction Prompt
