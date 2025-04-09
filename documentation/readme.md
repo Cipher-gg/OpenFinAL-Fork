@@ -23,7 +23,7 @@ The current build of the Chatbot is using OpenAI's ChatGPT-4. This is being done
 - Have the ability to reference past conversations.
 ## Chatbot Conversations
 *Mock Up Example*
-![[MK1 Chatbot design.pdf]]
+
 ### Chatbot Introduction Prompt
 **First Time User Detection**
 Hi I’m Stonky, your personal investing assistant. Are you new to investing, 
@@ -32,7 +32,6 @@ Chat bot will ask user what experience level of investor they are
 - [Intermediate](https://github.com/Cipher-gg/OpenFinAL-Fork/blob/main/documentation/readme.md#intermediate)
 - [Advanced](https://github.com/Cipher-gg/OpenFinAL-Fork/blob/main/documentation/readme.md#advanced)
 #### Novice 
-
 "Are you new to financial analytics? I can walk you through the basics or help you dive into some data. What would you like to start with?"  
 
 "Would you like to analyze a stock, explore an investment strategy, or just learn some finance fundamentals?"  
@@ -40,8 +39,6 @@ Chat bot will ask user what experience level of investor they are
 "Let’s get you started! You can type things like: ‘Show me the latest trends in tech stocks’ or ‘Explain P/E ratios.’ What would you like to do?"
 
 #### Intermediate 
-^770409
-
 "Looking for insights? I can analyze stock performance, compare sectors, or highlight market movers. What’s on your radar?"
 
 "Markets can be unpredictable, but data helps. Want to explore volatility, correlations, or backtest a strategy?"
@@ -53,8 +50,6 @@ Chat bot will ask user what experience level of investor they are
 "Considering a new investment strategy? I can help analyze past performance, run simulations, and evaluate risks."
 
 #### Advanced 
-^089ca8
-
 "Want to stress-test your portfolio? Let’s explore risk metrics, beta analysis, and hedging strategies."
 
 "Exploring options strategies? I can model Greeks, implied volatility skews, and options pricing scenarios."
