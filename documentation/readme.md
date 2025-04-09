@@ -28,9 +28,9 @@ The current build of the Chatbot is using OpenAI's ChatGPT-4. This is being done
 **First Time User Detection**
 Hi I’m Stonky, your personal investing assistant. Are you new to investing, 
 Chat bot will ask user what experience level of investor they are
-- [[README#^4f9c88|Novice]]
-- [[README#^770409|Intermediate]] 
-- [[README#^089ca8|Advanced]]
+- [Novice](https://github.com/Cipher-gg/OpenFinAL-Fork/blob/main/documentation/readme.md#novice)
+- [Intermediate](https://github.com/Cipher-gg/OpenFinAL-Fork/blob/main/documentation/readme.md#intermediate)
+- [Advanced](https://github.com/Cipher-gg/OpenFinAL-Fork/blob/main/documentation/readme.md#advanced)
 #### Novice 
 
 "Are you new to financial analytics? I can walk you through the basics or help you dive into some data. What would you like to start with?"  
