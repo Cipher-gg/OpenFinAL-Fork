@@ -1,9 +1,10 @@
 This is documentation for the Chatbot feature inside *OpenFinAL*. This document will talk about features, ideas, and chat conversations. 
 ## Table of Contents
-- [[README#^47283e|Introduction]]
-- [[README#^7f5e74|Chatbot Features]]
-- [[README#^598513|Chatbot Ideas]]
-- [[README#^03bf87|Chatbot Conversation]]
+- [Introduction](#Introduction)
+- [How to Use This Documentation](#how-to-use-this-documentation)
+- [Maintaining Documentation](#maintaining-documentation)
+- [Best Practices for Writing Documentation](#best-practices-for-writing-documentation)
+- [Additional Resources Used](#additional-resources-used)
 ## Introduction
 ^47283e
 The current build of the Chatbot is using OpenAI's ChatGPT-4. This is being done via API keys. Stonky is an advanced financial advisory chatbot designed to provide personalized investment assistance to users of all experience levels. Unlike traditional financial chatbots, Stonky will adapt to each user's knowledge level, offering explanations that are tailored to their understanding; from the basic concepts for beginners to experienced traders. 
