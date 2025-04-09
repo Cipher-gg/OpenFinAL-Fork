@@ -23,6 +23,8 @@ The current build of the Chatbot is using OpenAI's ChatGPT-4. This is being done
 - Have the ability to reference past conversations.
 ## Chatbot Conversations
 *Mock Up Example*
+[MK1 Chatbot design.pdf](https://github.com/user-attachments/files/19668771/MK1.Chatbot.design.pdf)
+
 
 ### Chatbot Introduction Prompt
 **First Time User Detection**
