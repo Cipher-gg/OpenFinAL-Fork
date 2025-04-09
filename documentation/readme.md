@@ -6,10 +6,8 @@ This is documentation for the Chatbot feature inside *OpenFinAL*. This document 
 - [Chatbot Conversations](https://github.com/Cipher-gg/OpenFinAL-Fork/blob/main/documentation/readme.md#topics-chatbot-can-converse-about)
 
 ## Introduction
-^47283e
 The current build of the Chatbot is using OpenAI's ChatGPT-4. This is being done via API keys. Stonky is an advanced financial advisory chatbot designed to provide personalized investment assistance to users of all experience levels. Unlike traditional financial chatbots, Stonky will adapt to each user's knowledge level, offering explanations that are tailored to their understanding; from the basic concepts for beginners to experienced traders. 
 ## Chatbot Features
-^7f5e74
 ### Learning & Response System
 - Automatically gauges users experience level through the initial onboarding 
 - Adjusts explanation complexity based on a user's financial knowledge. 
@@ -22,10 +20,8 @@ The current build of the Chatbot is using OpenAI's ChatGPT-4. This is being done
 - Sidebar Icon and expandable pop-ip chat window
 - Animated mascot compacted system status
 ## Chatbot Ideas
-^598513
 - Have the ability to reference past conversations.
 ## Chatbot Conversations
-^03bf87
 *Mock Up Example*
 ![[MK1 Chatbot design.pdf]]
 ### Chatbot Introduction Prompt
@@ -36,7 +32,6 @@ Chat bot will ask user what experience level of investor they are
 - [[README#^770409|Intermediate]] 
 - [[README#^089ca8|Advanced]]
 #### Novice 
-^4f9c88
 
 "Are you new to financial analytics? I can walk you through the basics or help you dive into some data. What would you like to start with?"  
 
